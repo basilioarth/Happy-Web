@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    color: #FFF;
+    background-color: #ebf2f5;
+}
+
+body, input, button, textarea {
+    font: 600 18px Nunito, sans-serif;
+    /* font-weight font-size font-family, font-family alternativa (caso não consiga carregar a Nunito, carrega essa) */
+} 
+/* Precisamos usar dessa forma, e não colocarmos somente dentro do body, pois por padrão
+o input, button e textarea não usam a fontfamily do body; elas usam uma própria. */
