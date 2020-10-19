@@ -10,14 +10,14 @@ O repositório tem como objetivo registrar o conhecimento obtido durante toda a 
 
 ## Mapa de Orfanatos
 ![Screenshot](src/assets/prints/OrphanagesMap_01.PNG)
-![Screenshot](src/assets/prints/OrphanagesMap_02.PNG)
-
-## Detalhes do Orfanato
-![Screenshot](src/assets/prints/OrphanagesDetails_01.PNG)
-![Screenshot](src/assets/prints/OrphanagesDetails_02.PNG)
-![Screenshot](src/assets/prints/OrphanagesDetails_03.PNG)
 
 ## Cadastrar Orfanato
 ![Screenshot](src/assets/prints/CreateOrphanage_01.PNG)
 ![Screenshot](src/assets/prints/CreateOrphanage_02.PNG)
 ![Screenshot](src/assets/prints/CreateOrphanage_03.PNG)
+
+## Detalhes do Orfanato
+![Screenshot](src/assets/prints/OrphanagesMap_02.PNG)
+![Screenshot](src/assets/prints/OrphanagesDetails_01.PNG)
+![Screenshot](src/assets/prints/OrphanagesDetails_02.PNG)
+![Screenshot](src/assets/prints/OrphanagesDetails_03.PNG)
